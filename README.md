@@ -1,15 +1,21 @@
-# 🍕 'Yumm' A Food Ordering App with BLoC
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 06" src="https://github.com/user-attachments/assets/0d9975d8-eda2-4902-8d86-be327d965f6e" /># 🍕 'Yumm' A Food Ordering App with BLoC
 
-A modern Flutter food ordering application built with clean architecture and BLoC state management pattern. This app provides a seamless food ordering experience with intuitive UI and robust state management.
+A modern Flutter food ordering application built with clean architecture and BLoC state management pattern.
 
 ## 📱 Screenshots
 
-| Home Screen | Favourites | Cart |
-|-------------|-----------|----------------|
-| ![Home](![Uploading Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21.00.06.png…]()
- | ![Fav](![Uploading Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21.00.36.png…]()
-) | ![Cart]() |
-
+<div align="center">
+  <img src="<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 06" src="https://github.com/user-attachments/assets/6c2d58a0-6278-4aa2-bd3c-5e4d99a959f7" />
+" width="250" alt="Home Screen"/>
+ <img src="<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 30" src="https://github.com/user-attachments/assets/197d8808-6a46-453c-922d-a7ad821c91bf" />
+" width="250" alt="Add to Favourite"/>
+  <img src="<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 36" src="https://github.com/user-attachments/assets/2e3e7103-ad14-44a3-abb8-e5a58ae83ed8" />
+" width="250" alt="Favourites list"/>
+ <img src="<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 15" src="https://github.com/user-attachments/assets/b73ad058-1ad2-4809-bf6b-29b52460bd9f" />
+" width="250" alt="Add to Cart"/>
+  <img src="<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21 00 51" src="https://github.com/user-attachments/assets/aade01f9-673b-4ed3-9917-632b751a6e58" />
+" width="250" alt="Cart View"/>
+</div>
 
 ## ✨ Features
 
