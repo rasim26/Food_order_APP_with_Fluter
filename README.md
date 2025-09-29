@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Food_Ordering_app_with_Bloc
 =======
 <<<<<<< HEAD
@@ -22,3 +23,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> 0773e37 (changes)
 >>>>>>> 9de2c3c (initial commit)
+=======
+# Food_Ordering_app_with_Bloc
+>>>>>>> f0fb64bd395de50b4a9d306ca17b8a33e5501f0e
+# Food_order_APP_with_Fluter
