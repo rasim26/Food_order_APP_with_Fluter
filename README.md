@@ -1,29 +1,24 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Food_Ordering_app_with_Bloc
-=======
-<<<<<<< HEAD
-# Food_Ordering_app_with_Bloc
-=======
-# local_food_ordering_app
+# 🍕 'Yumm' A Food Ordering App with BLoC
 
-A new Flutter project.
+A modern Flutter food ordering application built with clean architecture and BLoC state management pattern. This app provides a seamless food ordering experience with intuitive UI and robust state management.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Home Screen | Favourites | Cart |
+|-------------|-----------|----------------|
+| ![Home](![Uploading Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21.00.06.png…]()
+ | ![Fav](![Uploading Simulator Screenshot - iPhone 15 Pro - 2025-09-29 at 21.00.36.png…]()
+) | ![Cart]() |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 0773e37 (changes)
->>>>>>> 9de2c3c (initial commit)
-=======
-# Food_Ordering_app_with_Bloc
->>>>>>> f0fb64bd395de50b4a9d306ca17b8a33e5501f0e
-# Food_order_APP_with_Fluter
+### User Features
+- **Browse Menu**: View food items in card style like netflix
+- **Shopping Cart**: Add items to cart with quantity selection and customization options
+- **Favourites**: add items to favourites
+
+## 🏗️ Architecture
+
+This project follows **Clean Architecture** principles with **BLoC Pattern** for state management:
+
